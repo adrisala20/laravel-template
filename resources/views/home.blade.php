@@ -3,8 +3,8 @@
 @section('title', 'Home')
 
 @section('content')
-<main>
+<section>
     <h1>Home page</h1>
-</main>
+</section>
 
 @endsection
